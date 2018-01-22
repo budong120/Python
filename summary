@@ -1,1 +1,12 @@
-
+Installatioin
+    Version
+        Python3
+    Editor
+        Pycharm
+       
+Basics
+    Comments
+        any text to the right of the # symbol
+        e.g
+            print('hello world')  #Note that print is a function
+            
